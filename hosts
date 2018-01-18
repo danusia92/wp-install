@@ -1,0 +1,2 @@
+[wordpress]
+172.22.150.178 ansible_ssh_port=2222
